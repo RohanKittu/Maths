@@ -3,4 +3,5 @@ In this repo ,i have maths concepts files and implementation of those concepts i
 
 author name :- Krista King
 
-The teaching way of math in her tutorials are osum .I was really bad in math at my schooling days and till my completion of B Tech,but after getting into Data Science and AI field i got to know  that Maths is the back bone of all these fancy fields ,so finally i got some major intrest in math as i am curious about those fields.So this repo will be keep 's on updating the materials as i complete to learn each module of the courses.
+The teaching way of math in her tutorials are osum .I was really bad in math at my schooling days and till my completion of B Tech,but after getting into Data Science and AI field i got to know  that Maths is the back bone of all these fancy fields ,so finally i got some major intrest in math as i am curious about those fields and how they work on base end(which is math).So this repo will be keep 's on updating the materials as i complete to learn each module of the courses.
+
